@@ -1,4 +1,5 @@
-Wordle Clone - for fun
+# Wordle Clone - for fun
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
